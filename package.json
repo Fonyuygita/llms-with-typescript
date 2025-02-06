@@ -5,8 +5,8 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "start": "node --loader ts-node/esm src/app.ts",
-    "dev": "nodemon --exec node --loader ts-node/esm src/app.ts"
+   "start": "node --loader ts-node/esm src/models/google-gemini/1.1-chat-models/app.ts",
+    "dev": "nodemon --exec node --loader ts-node/esm src/models/google-gemini/1.1-chat-models/app.ts"
   },
   "engines": {
     "node": ">=20.0.0"
