@@ -1,0 +1,64 @@
+Rain lashed against the neon-slicked skyscrapers of Neo-Kyoto, 2150.  You are Kai, a synthetic detective with chrome plating shimmering under the streetlights. Your latest case: the disappearance of Anya Sharma, a brilliant programmer and outspoken critic of OmniCorp, the city's all-powerful tech conglomerate.  Your informant, a shadowy rebel hacker known only as "Glitch," provided a cryptic message: "Find the Glitch in the System."
+
+Your investigation leads you to a dilapidated warehouse in the industrial sector.  Inside, amidst the whirring machinery and the smell of ozone, you find Glitch, hunched over a console, her face illuminated by the emerald glow of the screen.
+
+"Anya's data trail went cold near OmniCorp Tower," Glitch says, her voice raspy. "They scrubbed everything.  But I managed to snag a fragment… a location.  It could be a trap, though. Three possible access points to the Tower’s restricted levels. Which one do you choose?"
+
+**Choice Point 1:**
+
+A) **The Service Tunnels:**  A labyrinthine network beneath the city, prone to flooding and infested with bio-engineered rats.  Risky, but potentially less guarded.
+
+B) **The Skybridge:** A precarious catwalk linking the Tower to a neighboring skyscraper. High risk of detection, but offers a direct, albeit exposed, route.
+
+C) **The Employee Entrance:** The most heavily guarded entrance, requiring sophisticated forgery of OmniCorp access credentials.  Requires delicate hacking and flawless execution.
+
+
+**(Choose A, B, or C and proceed to the next section)**
+
+
+---
+
+
+**(Assume the reader chose A - The Service Tunnels)**
+
+Navigating the service tunnels proves treacherous.  You dodge waves of contaminated water and oversized, genetically-modified rats.  Suddenly, alarms blare. OmniCorp security drones swarm the tunnels, their red optic sensors targeting you. Glitch, through a comms link, guides you through a maze of pipes and hidden passages.  You barely escape, reaching a concealed elevator that leads upwards.  At the top, you find yourself in a deserted maintenance corridor overlooking a vast server room.
+
+A figure emerges from the shadows:  Julian Thorne, OmniCorp's ruthless CEO, impeccably dressed despite the grime of the maintenance corridor.  He smirks.
+
+“Detective Kai, I presume,” Thorne says, his voice smooth but laced with menace. "Anya was… inconvenient.  Her rebellious code threatened our future.  And you, well, you're a loose end.”
+
+He raises a hand, and armed security guards appear from behind the server racks.  You have a choice to make.
+
+
+**Choice Point 2:**
+
+A) **Fight your way out:** Engage in a brutal, close-quarters combat scenario. Your synthetic enhancements provide an advantage, but the odds are still stacked against you.
+
+B) **Negotiate a truce:** Attempt to reason with Thorne, offering a deal to expose some of OmniCorp’s less savory activities in exchange for Anya’s safety. This is a gamble; Thorne is notoriously untrustworthy.
+
+C) **Initiate a system overload:**  Glitch provides access to the server room's mainframe. You can attempt to trigger a system-wide overload, creating chaos that might allow you to escape. This carries the risk of catastrophic collateral damage.
+
+
+
+**(Choose A, B, or C and proceed to the next section)**
+
+
+---
+
+
+**(Assume the reader chose B - Negotiate a truce)**
+
+
+Thorne considers your offer.  His gaze is cold and calculating. "An interesting proposition, Detective.  I'll make you a deal.  I'll release Anya, unharmed,  if you… delete your investigation files, and forget this ever happened.  Failure to comply will result in your immediate termination.”
+
+
+**Choice Point 3:**
+
+A) **Accept the deal:**  You delete the files and leave Anya’s fate in Thorne’s hands.  It's the safest option, but ethically questionable.
+
+B) **Play for time:** You feign acceptance, secretly transmitting the data to Glitch before complying, hoping for a later opportunity to bring Thorne down.
+
+C) **Reject the deal:** You reveal your hidden weapon (a high-powered EMP device), threatening to unleash it upon OmniCorp’s network unless Anya is released. This is a high-risk, high-reward gamble.
+
+
+**(Choose A, B, or C for the final outcome. The story will then conclude based on your final choice.)**
